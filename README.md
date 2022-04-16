@@ -17,6 +17,6 @@
 
 ### 📩  Me
 <p>
-  <a href="nogi3001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://velog.io/@nklee6300"><img src="https://camo.githubusercontent.com/fe4c5886726a4a11c7a8380bddb273de7449d521ad1f958876c982cf0c380b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56656c6f672d3230633939373f7374796c653d666f722d7468652d737175617265266c6f676f3d56696d656f266c6f676f436f6c6f723d7768697465"/></a>
+  <a href="https://nogi3001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@nogi6300"><img src="https://camo.githubusercontent.com/fe4c5886726a4a11c7a8380bddb273de7449d521ad1f958876c982cf0c380b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56656c6f672d3230633939373f7374796c653d666f722d7468652d737175617265266c6f676f3d56696d656f266c6f676f436f6c6f723d7768697465"/></a>
 </p>
