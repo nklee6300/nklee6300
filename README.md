@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Nokyu%20Lee&fontAlign=50&fontAlignY=40&color=gradient)
 
 
-
 ### 💻 Skills
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)</br>
